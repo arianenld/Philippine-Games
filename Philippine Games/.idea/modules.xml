@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/4TH YEAR/MODELSIM/Activities/.idea/Activities.iml" filepath="F:/4TH YEAR/MODELSIM/Activities/.idea/Activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Arcade/.idea/Arcade.iml" filepath="$PROJECT_DIR$/../../Arcade/.idea/Arcade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Py Files.iml" filepath="$PROJECT_DIR$/.idea/Py Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Spaceship/.idea/Spaceship.iml" filepath="$PROJECT_DIR$/../../Spaceship/.idea/Spaceship.iml" />
+    </modules>
+  </component>
+</project>
