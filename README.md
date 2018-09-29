@@ -1,2 +1,2 @@
 # Philippine-Games
-Sipa, Tumbang Preso, Luksong Baboy
+Python-based 2D Game: Sipa, Tumbang Preso, Luksong Baboy
